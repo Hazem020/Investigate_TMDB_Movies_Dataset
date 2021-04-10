@@ -2,6 +2,7 @@
 
 ## Project Overview:
 In this project, i have to analyze a dataset and then communicate my findings about it.
+
 This movie database contains information about 10,000 movies including genres, ratings, revenue, budget, and more. It contains movies which are released between 1960 and 2015, it also has two columns for budget and revenue in terms of 2010 dollars accounting for inflation over time which will be used in my analysis.
 
 ## Objectives:
